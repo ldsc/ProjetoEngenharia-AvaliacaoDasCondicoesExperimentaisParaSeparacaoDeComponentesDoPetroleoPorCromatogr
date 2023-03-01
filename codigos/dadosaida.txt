@@ -1,0 +1,21 @@
+
+Tabela de coeficientes
+---------------------------------------------
+	Efeitos	Erro	t(2)	p
+Media	56.5794	0.378	149.681	4.60569e-05
+X1	-2.17	1	-2.17	0.167378
+X2	17.27	1	17.27	0.00344266
+X12	-7.23	1	-7.23	0.0191923
+---------------------------------------------
+ Analises da variancia e os coeficientes significativos
+FV		SQ	nGL	MQ	Fcalc.	p
+Regressão	355.257	3	118.419	404.802	0.000292538
+Residuos	0.877607	3	0.292536
+F. Ajuste	0.21094	1	0.21094	0.63282	0.509737
+Erro Puro	0.666667	2	0.333333
+Total		356.09	6
+--------------------------------------------------------------------
+- Regressão  Significativa
+- F. Ajuste  Significativa
+variação explicada		 99.7661%
+máx. de variação explicável	 99.8128%

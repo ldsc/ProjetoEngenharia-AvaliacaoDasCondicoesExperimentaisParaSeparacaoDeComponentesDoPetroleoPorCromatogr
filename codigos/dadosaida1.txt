@@ -1,0 +1,12 @@
+ Analises da variancia e os coeficientes significativos
+FV	SQ	nGL	MQ	Fcalc.	p
+Regressão	222.04	3	74.0133	0.266954	0.846821
+Residuos	831.754	3	277.251
+F. Ajuste	829.754	1	829.754	829.754	0.001203
+Erro Puro	2	2	1
+Total	1053.71	6
+--------------------------------------------------------------------
+- Regressão  Significativa
+- F. Ajuste  Significativa
+variação explicada		 21.0721%
+máx. de variação explicável	 99.8102%
